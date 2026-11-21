@@ -87,8 +87,8 @@ if (WIFEXITED(status)) {
 printf("Done.\n");
 return 0;
 ~~~
-**OUTPUT
-**
+## OUTPUT
+
 <img width="742" height="347" alt="image" src="https://github.com/user-attachments/assets/ececa88b-3a24-4019-9fb5-f67664f70d28" />
 
 # RESULT:
