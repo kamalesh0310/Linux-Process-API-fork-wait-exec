@@ -38,9 +38,8 @@ int main()
     wait(NULL); 
 }
 ~~~
-
-###OUTPUT
-
+**OUTPUT
+**
 <img width="507" height="170" alt="image" src="https://github.com/user-attachments/assets/35f381a7-76f3-4cb3-b7b5-774c6e0de244" />
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -85,8 +84,8 @@ if (WIFEXITED(status)) {
 printf("Done.\n");
 return 0;
 ~~~
-###OUTPUT
-
+**OUTPUT
+**
 <img width="742" height="347" alt="image" src="https://github.com/user-attachments/assets/ececa88b-3a24-4019-9fb5-f67664f70d28" />
 
 # RESULT:
